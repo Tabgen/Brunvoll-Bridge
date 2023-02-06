@@ -1,0 +1,13 @@
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\bin\Debug\Brunvoll-utplasseringsprosjekt.exe.config
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\bin\Debug\Brunvoll-utplasseringsprosjekt.exe
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\bin\Debug\Brunvoll-utplasseringsprosjekt.pdb
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\obj\Debug\Brunvoll-utplasseringsprosjekt.csproj.AssemblyReference.cache
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\obj\Debug\Brunvoll-utplasseringsprosjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\obj\Debug\Brunvoll_utplasseringsprosjekt.Form1.resources
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\obj\Debug\Brunvoll_utplasseringsprosjekt.Properties.Resources.resources
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\obj\Debug\Brunvoll-utplasseringsprosjekt.csproj.GenerateResource.cache
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\obj\Debug\Brunvoll-utplasseringsprosjekt.csproj.CoreCompileInputs.cache
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\obj\Debug\Brunvoll-utplasseringsprosjekt.exe
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\obj\Debug\Brunvoll-utplasseringsprosjekt.pdb
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\bin\Debug\Control.Draggable.dll
+C:\Users\Aslak Sandvik Tangen\source\repos\Brunvoll-utplasseringsprosjekt\obj\Debug\Brunvoll-utplasseringsprosjekt.csproj.CopyComplete
