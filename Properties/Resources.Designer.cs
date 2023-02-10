@@ -83,9 +83,29 @@ namespace Brunvoll_utplasseringsprosjekt.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap BC_5_panel_azimuth_propulsion {
+            get {
+                object obj = ResourceManager.GetObject("BC-5-panel-azimuth-propulsion", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap BC_5_panel_azimuth_wo_monitor {
             get {
                 object obj = ResourceManager.GetObject("BC-5-panel-azimuth-wo-monitor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BC_5_panel_azimuth_wo_monitor_propulsion {
+            get {
+                object obj = ResourceManager.GetObject("BC-5-panel-azimuth-wo-monitor-propulsion", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -136,6 +156,56 @@ namespace Brunvoll_utplasseringsprosjekt.Properties {
         internal static System.Drawing.Bitmap BC_5_panel_two_tunnels_wo_monitor___Copy {
             get {
                 object obj = ResourceManager.GetObject("BC-5-panel-two-tunnels-wo-monitor - Copy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bow {
+            get {
+                object obj = ResourceManager.GetObject("bow", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap caret_left {
+            get {
+                object obj = ResourceManager.GetObject("caret-left", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap caret_right {
+            get {
+                object obj = ResourceManager.GetObject("caret-right", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap propulsion {
+            get {
+                object obj = ResourceManager.GetObject("propulsion", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap stern {
+            get {
+                object obj = ResourceManager.GetObject("stern", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

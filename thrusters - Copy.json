@@ -1,0 +1,37 @@
+{
+	"thruster": [
+		{
+			"id": 1,
+			"type": "tunnel",
+			"placement": "bow"
+		},
+		{
+			"id": 2,
+			"type": "tunnel",
+			"placement": "bow"
+		},
+		{
+			"id": 3,
+			"type": "azimuth",
+			"placement": "bow"
+		},
+		{
+			"id": 5,
+			"type": "azimuth",
+			"placement": "stern"
+		},
+		{
+			"id": 5,
+			"type": "tunnel",
+			"placement": "stern"
+		},
+		{
+			"id": 6,
+			"type": "azimuth_propulsion"
+		},
+		{
+			"id": 7,
+			"type": "azimuth_propulsion"
+		}
+	]
+}

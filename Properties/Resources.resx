@@ -118,28 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="BC-5-common-monitor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\BC-5-common-monitor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="stern" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\stern.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="BC-5-panel-azimuth" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\BC-5-panel-azimuth.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="BC-5-panel-azimuth-wo-monitor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\BC-5-panel-azimuth-wo-monitor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="BC-5-panel-tunnel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\BC-5-panel-tunnel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BC-5-panel-tunnel-wo-monitor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\BC-5-panel-tunnel-wo-monitor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BC-5-panel-two-tunnels" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\BC-5-panel-two-tunnels.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="BC-5-panel-two-tunnels-dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\BC-5-panel-two-tunnels-dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="BC-5-panel-tunnel-wo-monitor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\BC-5-panel-tunnel-wo-monitor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="caret-left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\caret-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BC-5-panel-azimuth-wo-monitor-propulsion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\BC-5-panel-azimuth-wo-monitor-propulsion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BC-5-panel-azimuth-propulsion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\BC-5-panel-azimuth-propulsion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BC-5-panel-azimuth-wo-monitor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\BC-5-panel-azimuth-wo-monitor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="BC-5-panel-two-tunnels-wo-monitor - Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\BC-5-panel-two-tunnels-wo-monitor - Copy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="caret-right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\caret-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BC-5-panel-two-tunnels" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\BC-5-panel-two-tunnels.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BC-5-common-monitor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\BC-5-common-monitor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="propulsion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\propulsion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
